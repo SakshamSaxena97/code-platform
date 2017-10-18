@@ -5,7 +5,9 @@ This is an Online Platform for coding where one can code in C/C++/Java?python an
 # Installing HTTP Server
 
 $yum install httpd
+
 $yum restart httpd
+
 $yum stop firewalld
 
 # On Browser
