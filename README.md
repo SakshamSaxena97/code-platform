@@ -12,4 +12,4 @@ $yum stop firewalld
 
 # On Browser
 
---http://<ip>/paas_manage.html
+--http://ip/paas_manage.html
